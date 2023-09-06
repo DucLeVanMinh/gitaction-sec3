@@ -1,7 +1,0 @@
-name: Output Event Details on "issues"
-on: workflow_dispatch
-jobs:
-  issues:
-    runs-on: ubuntu-latest
-    # steps:
-    #   - name: Get code
